@@ -16,3 +16,9 @@ body{
     font-family: 'Hind Madurai', sans-serif;
     font-family: 'Mulish', sans-serif;
 */
+
+/* form */
+
+form input, form textarea{
+    margin: 5px 0;
+}
